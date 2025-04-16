@@ -1,0 +1,1 @@
+<header class="bg-blue-300 py-3 px-6"><h2>This is header</h2></header>

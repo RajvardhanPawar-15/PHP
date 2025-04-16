@@ -1,0 +1,1 @@
+<footer class="bg-blue-600 py-3 px-6"><h4>This is footer</h4></footer>
