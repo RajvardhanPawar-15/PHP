@@ -121,7 +121,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       setTimeout(() => {
         errmsgElement.style.display = 'none';
         if (redirectToLogin) {
-          window.location.href = '../index.html'; // Redirect after 5 seconds
+          window.location.href = '../index.php'; // Redirect after 5 seconds
         }
       }, 3000);
     }
